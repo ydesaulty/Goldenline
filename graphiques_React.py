@@ -5,7 +5,6 @@ const Graphique = () => {
     const [data, setData] = useState([]);
 
     useEffect(() => {
-        // Remplacez cette URL par l'URL de votre API
         fetch('https://127.0.0.1/collecte')
             .then(response => response.json())
             .then(data => setData(data));
