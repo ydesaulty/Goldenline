@@ -1,0 +1,1001 @@
+	classe_socio_professionnelle	identifiant_client
+0	Ouvriers	396
+1	Sans activité professionnelle	391
+2	Ouvriers	213
+3	Employés	846
+4	Ouvriers	103
+5	Sans activité professionnelle	782
+6	Etudiants	65
+7	Etudiants	417
+8	Cadres et professions intellectuelles supérieures	216
+9	Professions intermédiaires	798
+10	Ouvriers	693
+11	Agriculteurs exploitants	486
+12	Professions intermédiaires	154
+13	Agriculteurs exploitants	625
+14	Etudiants	87
+15	Autres	814
+16	Artisans, commerçants, chefs d'entreprise	896
+17	Employés	341
+18	Ouvriers	710
+19	Sans activité professionnelle	315
+20	Cadres et professions intellectuelles supérieures	451
+21	Professions intermédiaires	498
+22	Etudiants	796
+23	Artisans, commerçants, chefs d'entreprise	815
+24	Employés	542
+25	Etudiants	814
+26	Retraités	32
+27	Professions intermédiaires	742
+28	Cadres et professions intellectuelles supérieures	979
+29	Professions intermédiaires	995
+30	Sans activité professionnelle	203
+31	Professions intermédiaires	891
+32	Retraités	387
+33	Autres	334
+34	Agriculteurs exploitants	360
+35	Ouvriers	685
+36	Cadres et professions intellectuelles supérieures	395
+37	Sans activité professionnelle	519
+38	Ouvriers	105
+39	Ouvriers	60
+40	Cadres et professions intellectuelles supérieures	424
+41	Autres	542
+42	Ouvriers	194
+43	Autres	338
+44	Agriculteurs exploitants	644
+45	Agriculteurs exploitants	48
+46	Sans activité professionnelle	533
+47	Professions intermédiaires	535
+48	Agriculteurs exploitants	511
+49	Sans activité professionnelle	814
+50	Agriculteurs exploitants	198
+51	Artisans, commerçants, chefs d'entreprise	902
+52	Employés	856
+53	Sans activité professionnelle	165
+54	Agriculteurs exploitants	196
+55	Retraités	103
+56	Professions intermédiaires	529
+57	Etudiants	332
+58	Agriculteurs exploitants	420
+59	Professions intermédiaires	212
+60	Artisans, commerçants, chefs d'entreprise	46
+61	Autres	258
+62	Agriculteurs exploitants	194
+63	Retraités	589
+64	Sans activité professionnelle	180
+65	Ouvriers	130
+66	Etudiants	216
+67	Artisans, commerçants, chefs d'entreprise	837
+68	Artisans, commerçants, chefs d'entreprise	891
+69	Ouvriers	347
+70	Cadres et professions intellectuelles supérieures	83
+71	Sans activité professionnelle	53
+72	Professions intermédiaires	604
+73	Cadres et professions intellectuelles supérieures	941
+74	Professions intermédiaires	109
+75	Artisans, commerçants, chefs d'entreprise	511
+76	Etudiants	713
+77	Autres	967
+78	Retraités	492
+79	Sans activité professionnelle	360
+80	Artisans, commerçants, chefs d'entreprise	705
+81	Professions intermédiaires	512
+82	Retraités	407
+83	Ouvriers	888
+84	Retraités	399
+85	Cadres et professions intellectuelles supérieures	881
+86	Agriculteurs exploitants	169
+87	Cadres et professions intellectuelles supérieures	725
+88	Employés	690
+89	Sans activité professionnelle	542
+90	Employés	813
+91	Artisans, commerçants, chefs d'entreprise	318
+92	Cadres et professions intellectuelles supérieures	810
+93	Cadres et professions intellectuelles supérieures	56
+94	Artisans, commerçants, chefs d'entreprise	21
+95	Employés	998
+96	Agriculteurs exploitants	519
+97	Employés	114
+98	Retraités	738
+99	Cadres et professions intellectuelles supérieures	278
+100	Sans activité professionnelle	931
+101	Retraités	125
+102	Artisans, commerçants, chefs d'entreprise	125
+103	Employés	990
+104	Artisans, commerçants, chefs d'entreprise	32
+105	Professions intermédiaires	948
+106	Professions intermédiaires	64
+107	Autres	340
+108	Professions intermédiaires	224
+109	Sans activité professionnelle	287
+110	Autres	677
+111	Etudiants	412
+112	Ouvriers	480
+113	Agriculteurs exploitants	983
+114	Ouvriers	910
+115	Agriculteurs exploitants	351
+116	Etudiants	709
+117	Employés	84
+118	Employés	504
+119	Etudiants	284
+120	Autres	865
+121	Cadres et professions intellectuelles supérieures	552
+122	Ouvriers	9
+123	Ouvriers	322
+124	Artisans, commerçants, chefs d'entreprise	353
+125	Autres	498
+126	Sans activité professionnelle	806
+127	Cadres et professions intellectuelles supérieures	843
+128	Professions intermédiaires	279
+129	Professions intermédiaires	917
+130	Agriculteurs exploitants	984
+131	Artisans, commerçants, chefs d'entreprise	7
+132	Agriculteurs exploitants	208
+133	Artisans, commerçants, chefs d'entreprise	845
+134	Employés	225
+135	Etudiants	873
+136	Agriculteurs exploitants	813
+137	Professions intermédiaires	638
+138	Autres	941
+139	Artisans, commerçants, chefs d'entreprise	735
+140	Professions intermédiaires	796
+141	Artisans, commerçants, chefs d'entreprise	300
+142	Employés	774
+143	Agriculteurs exploitants	401
+144	Professions intermédiaires	401
+145	Ouvriers	103
+146	Artisans, commerçants, chefs d'entreprise	431
+147	Autres	436
+148	Cadres et professions intellectuelles supérieures	466
+149	Professions intermédiaires	300
+150	Cadres et professions intellectuelles supérieures	39
+151	Agriculteurs exploitants	605
+152	Employés	691
+153	Cadres et professions intellectuelles supérieures	275
+154	Autres	533
+155	Agriculteurs exploitants	431
+156	Agriculteurs exploitants	118
+157	Retraités	152
+158	Agriculteurs exploitants	822
+159	Etudiants	689
+160	Sans activité professionnelle	368
+161	Sans activité professionnelle	398
+162	Professions intermédiaires	570
+163	Cadres et professions intellectuelles supérieures	468
+164	Cadres et professions intellectuelles supérieures	178
+165	Autres	423
+166	Cadres et professions intellectuelles supérieures	152
+167	Cadres et professions intellectuelles supérieures	678
+168	Artisans, commerçants, chefs d'entreprise	134
+169	Artisans, commerçants, chefs d'entreprise	750
+170	Etudiants	554
+171	Sans activité professionnelle	4
+172	Etudiants	120
+173	Artisans, commerçants, chefs d'entreprise	955
+174	Autres	704
+175	Retraités	716
+176	Etudiants	378
+177	Employés	332
+178	Retraités	948
+179	Sans activité professionnelle	975
+180	Artisans, commerçants, chefs d'entreprise	789
+181	Ouvriers	103
+182	Etudiants	952
+183	Sans activité professionnelle	827
+184	Artisans, commerçants, chefs d'entreprise	310
+185	Autres	200
+186	Artisans, commerçants, chefs d'entreprise	352
+187	Cadres et professions intellectuelles supérieures	379
+188	Sans activité professionnelle	202
+189	Agriculteurs exploitants	274
+190	Employés	831
+191	Agriculteurs exploitants	416
+192	Etudiants	780
+193	Etudiants	966
+194	Agriculteurs exploitants	180
+195	Professions intermédiaires	860
+196	Artisans, commerçants, chefs d'entreprise	319
+197	Agriculteurs exploitants	549
+198	Sans activité professionnelle	271
+199	Employés	152
+200	Ouvriers	5
+201	Etudiants	257
+202	Retraités	321
+203	Ouvriers	988
+204	Autres	260
+205	Cadres et professions intellectuelles supérieures	944
+206	Agriculteurs exploitants	977
+207	Professions intermédiaires	969
+208	Employés	434
+209	Agriculteurs exploitants	688
+210	Cadres et professions intellectuelles supérieures	507
+211	Retraités	369
+212	Retraités	881
+213	Artisans, commerçants, chefs d'entreprise	457
+214	Professions intermédiaires	530
+215	Etudiants	527
+216	Etudiants	224
+217	Ouvriers	310
+218	Agriculteurs exploitants	11
+219	Agriculteurs exploitants	283
+220	Employés	431
+221	Cadres et professions intellectuelles supérieures	797
+222	Etudiants	73
+223	Artisans, commerçants, chefs d'entreprise	799
+224	Etudiants	665
+225	Ouvriers	967
+226	Agriculteurs exploitants	681
+227	Ouvriers	739
+228	Ouvriers	526
+229	Etudiants	466
+230	Professions intermédiaires	691
+231	Professions intermédiaires	832
+232	Professions intermédiaires	213
+233	Agriculteurs exploitants	718
+234	Retraités	801
+235	Cadres et professions intellectuelles supérieures	320
+236	Agriculteurs exploitants	434
+237	Artisans, commerçants, chefs d'entreprise	278
+238	Cadres et professions intellectuelles supérieures	434
+239	Ouvriers	677
+240	Cadres et professions intellectuelles supérieures	917
+241	Artisans, commerçants, chefs d'entreprise	527
+242	Artisans, commerçants, chefs d'entreprise	946
+243	Employés	338
+244	Etudiants	831
+245	Etudiants	608
+246	Cadres et professions intellectuelles supérieures	712
+247	Sans activité professionnelle	531
+248	Employés	596
+249	Sans activité professionnelle	783
+250	Autres	464
+251	Professions intermédiaires	781
+252	Employés	722
+253	Sans activité professionnelle	854
+254	Artisans, commerçants, chefs d'entreprise	144
+255	Ouvriers	136
+256	Employés	142
+257	Autres	719
+258	Ouvriers	404
+259	Etudiants	839
+260	Cadres et professions intellectuelles supérieures	108
+261	Ouvriers	745
+262	Agriculteurs exploitants	926
+263	Agriculteurs exploitants	196
+264	Sans activité professionnelle	186
+265	Retraités	393
+266	Cadres et professions intellectuelles supérieures	854
+267	Employés	696
+268	Professions intermédiaires	193
+269	Autres	446
+270	Sans activité professionnelle	480
+271	Etudiants	977
+272	Artisans, commerçants, chefs d'entreprise	519
+273	Cadres et professions intellectuelles supérieures	191
+274	Retraités	343
+275	Agriculteurs exploitants	909
+276	Autres	869
+277	Ouvriers	535
+278	Ouvriers	639
+279	Agriculteurs exploitants	465
+280	Retraités	718
+281	Employés	77
+282	Autres	583
+283	Sans activité professionnelle	90
+284	Artisans, commerçants, chefs d'entreprise	238
+285	Autres	514
+286	Ouvriers	749
+287	Etudiants	363
+288	Ouvriers	638
+289	Sans activité professionnelle	287
+290	Professions intermédiaires	301
+291	Agriculteurs exploitants	240
+292	Artisans, commerçants, chefs d'entreprise	68
+293	Cadres et professions intellectuelles supérieures	515
+294	Sans activité professionnelle	445
+295	Sans activité professionnelle	138
+296	Artisans, commerçants, chefs d'entreprise	232
+297	Agriculteurs exploitants	407
+298	Employés	655
+299	Artisans, commerçants, chefs d'entreprise	47
+300	Sans activité professionnelle	153
+301	Cadres et professions intellectuelles supérieures	894
+302	Employés	129
+303	Etudiants	503
+304	Employés	869
+305	Cadres et professions intellectuelles supérieures	51
+306	Artisans, commerçants, chefs d'entreprise	921
+307	Autres	125
+308	Agriculteurs exploitants	338
+309	Retraités	834
+310	Artisans, commerçants, chefs d'entreprise	563
+311	Agriculteurs exploitants	605
+312	Retraités	64
+313	Artisans, commerçants, chefs d'entreprise	297
+314	Employés	787
+315	Autres	716
+316	Cadres et professions intellectuelles supérieures	603
+317	Autres	361
+318	Cadres et professions intellectuelles supérieures	796
+319	Agriculteurs exploitants	892
+320	Ouvriers	864
+321	Etudiants	155
+322	Autres	353
+323	Professions intermédiaires	292
+324	Professions intermédiaires	67
+325	Agriculteurs exploitants	850
+326	Professions intermédiaires	7
+327	Autres	552
+328	Cadres et professions intellectuelles supérieures	859
+329	Ouvriers	195
+330	Cadres et professions intellectuelles supérieures	190
+331	Ouvriers	970
+332	Professions intermédiaires	935
+333	Sans activité professionnelle	581
+334	Ouvriers	467
+335	Autres	862
+336	Professions intermédiaires	392
+337	Cadres et professions intellectuelles supérieures	785
+338	Etudiants	262
+339	Retraités	319
+340	Sans activité professionnelle	655
+341	Artisans, commerçants, chefs d'entreprise	638
+342	Ouvriers	616
+343	Professions intermédiaires	481
+344	Professions intermédiaires	2
+345	Ouvriers	33
+346	Cadres et professions intellectuelles supérieures	88
+347	Etudiants	689
+348	Ouvriers	638
+349	Cadres et professions intellectuelles supérieures	565
+350	Retraités	674
+351	Artisans, commerçants, chefs d'entreprise	353
+352	Professions intermédiaires	640
+353	Employés	290
+354	Employés	1
+355	Ouvriers	779
+356	Ouvriers	417
+357	Employés	542
+358	Cadres et professions intellectuelles supérieures	918
+359	Etudiants	403
+360	Professions intermédiaires	5
+361	Autres	637
+362	Agriculteurs exploitants	708
+363	Retraités	760
+364	Employés	133
+365	Autres	11
+366	Sans activité professionnelle	397
+367	Etudiants	273
+368	Agriculteurs exploitants	70
+369	Artisans, commerçants, chefs d'entreprise	81
+370	Agriculteurs exploitants	470
+371	Retraités	393
+372	Agriculteurs exploitants	136
+373	Sans activité professionnelle	977
+374	Employés	341
+375	Professions intermédiaires	426
+376	Professions intermédiaires	493
+377	Cadres et professions intellectuelles supérieures	100
+378	Cadres et professions intellectuelles supérieures	461
+379	Artisans, commerçants, chefs d'entreprise	300
+380	Retraités	973
+381	Professions intermédiaires	432
+382	Employés	38
+383	Professions intermédiaires	25
+384	Agriculteurs exploitants	733
+385	Professions intermédiaires	991
+386	Etudiants	944
+387	Retraités	616
+388	Professions intermédiaires	372
+389	Etudiants	774
+390	Sans activité professionnelle	242
+391	Sans activité professionnelle	821
+392	Employés	876
+393	Autres	202
+394	Agriculteurs exploitants	80
+395	Ouvriers	546
+396	Cadres et professions intellectuelles supérieures	186
+397	Employés	843
+398	Employés	422
+399	Ouvriers	147
+400	Professions intermédiaires	60
+401	Cadres et professions intellectuelles supérieures	481
+402	Professions intermédiaires	380
+403	Retraités	550
+404	Retraités	834
+405	Agriculteurs exploitants	639
+406	Ouvriers	781
+407	Retraités	99
+408	Autres	812
+409	Artisans, commerçants, chefs d'entreprise	626
+410	Sans activité professionnelle	522
+411	Professions intermédiaires	711
+412	Retraités	916
+413	Artisans, commerçants, chefs d'entreprise	901
+414	Etudiants	974
+415	Professions intermédiaires	280
+416	Retraités	877
+417	Etudiants	795
+418	Ouvriers	444
+419	Etudiants	300
+420	Employés	775
+421	Employés	687
+422	Cadres et professions intellectuelles supérieures	864
+423	Autres	709
+424	Autres	80
+425	Autres	981
+426	Sans activité professionnelle	245
+427	Retraités	65
+428	Sans activité professionnelle	683
+429	Autres	204
+430	Retraités	473
+431	Professions intermédiaires	665
+432	Etudiants	807
+433	Agriculteurs exploitants	854
+434	Professions intermédiaires	388
+435	Artisans, commerçants, chefs d'entreprise	129
+436	Cadres et professions intellectuelles supérieures	660
+437	Ouvriers	152
+438	Ouvriers	907
+439	Employés	246
+440	Etudiants	875
+441	Employés	361
+442	Sans activité professionnelle	250
+443	Artisans, commerçants, chefs d'entreprise	587
+444	Agriculteurs exploitants	169
+445	Cadres et professions intellectuelles supérieures	897
+446	Autres	548
+447	Ouvriers	900
+448	Agriculteurs exploitants	286
+449	Artisans, commerçants, chefs d'entreprise	302
+450	Professions intermédiaires	333
+451	Agriculteurs exploitants	274
+452	Professions intermédiaires	678
+453	Cadres et professions intellectuelles supérieures	770
+454	Autres	620
+455	Professions intermédiaires	21
+456	Etudiants	901
+457	Professions intermédiaires	604
+458	Autres	575
+459	Retraités	875
+460	Ouvriers	66
+461	Artisans, commerçants, chefs d'entreprise	97
+462	Sans activité professionnelle	650
+463	Sans activité professionnelle	158
+464	Professions intermédiaires	567
+465	Employés	418
+466	Cadres et professions intellectuelles supérieures	515
+467	Professions intermédiaires	8
+468	Sans activité professionnelle	776
+469	Autres	654
+470	Retraités	643
+471	Ouvriers	587
+472	Sans activité professionnelle	52
+473	Autres	356
+474	Ouvriers	893
+475	Sans activité professionnelle	519
+476	Employés	698
+477	Ouvriers	485
+478	Artisans, commerçants, chefs d'entreprise	355
+479	Retraités	226
+480	Autres	275
+481	Employés	836
+482	Sans activité professionnelle	161
+483	Retraités	682
+484	Agriculteurs exploitants	676
+485	Autres	755
+486	Etudiants	498
+487	Agriculteurs exploitants	967
+488	Autres	23
+489	Retraités	548
+490	Ouvriers	842
+491	Artisans, commerçants, chefs d'entreprise	673
+492	Sans activité professionnelle	736
+493	Sans activité professionnelle	710
+494	Autres	46
+495	Professions intermédiaires	166
+496	Agriculteurs exploitants	590
+497	Artisans, commerçants, chefs d'entreprise	374
+498	Etudiants	540
+499	Retraités	800
+500	Cadres et professions intellectuelles supérieures	644
+501	Autres	395
+502	Ouvriers	362
+503	Agriculteurs exploitants	708
+504	Employés	877
+505	Sans activité professionnelle	729
+506	Sans activité professionnelle	199
+507	Ouvriers	840
+508	Agriculteurs exploitants	301
+509	Professions intermédiaires	767
+510	Ouvriers	285
+511	Agriculteurs exploitants	694
+512	Autres	761
+513	Employés	818
+514	Agriculteurs exploitants	367
+515	Ouvriers	732
+516	Professions intermédiaires	423
+517	Sans activité professionnelle	950
+518	Cadres et professions intellectuelles supérieures	306
+519	Autres	55
+520	Etudiants	119
+521	Sans activité professionnelle	795
+522	Sans activité professionnelle	270
+523	Agriculteurs exploitants	737
+524	Ouvriers	832
+525	Etudiants	926
+526	Cadres et professions intellectuelles supérieures	201
+527	Employés	637
+528	Etudiants	671
+529	Autres	831
+530	Etudiants	319
+531	Cadres et professions intellectuelles supérieures	773
+532	Cadres et professions intellectuelles supérieures	869
+533	Agriculteurs exploitants	159
+534	Autres	919
+535	Autres	111
+536	Retraités	35
+537	Employés	11
+538	Agriculteurs exploitants	641
+539	Artisans, commerçants, chefs d'entreprise	305
+540	Autres	438
+541	Sans activité professionnelle	434
+542	Agriculteurs exploitants	287
+543	Professions intermédiaires	752
+544	Agriculteurs exploitants	640
+545	Etudiants	221
+546	Professions intermédiaires	719
+547	Artisans, commerçants, chefs d'entreprise	438
+548	Sans activité professionnelle	72
+549	Artisans, commerçants, chefs d'entreprise	522
+550	Ouvriers	645
+551	Sans activité professionnelle	872
+552	Agriculteurs exploitants	115
+553	Professions intermédiaires	469
+554	Sans activité professionnelle	848
+555	Sans activité professionnelle	868
+556	Etudiants	936
+557	Employés	156
+558	Retraités	830
+559	Artisans, commerçants, chefs d'entreprise	259
+560	Retraités	836
+561	Professions intermédiaires	608
+562	Autres	823
+563	Etudiants	364
+564	Cadres et professions intellectuelles supérieures	89
+565	Cadres et professions intellectuelles supérieures	134
+566	Ouvriers	213
+567	Ouvriers	601
+568	Employés	199
+569	Employés	256
+570	Ouvriers	91
+571	Artisans, commerçants, chefs d'entreprise	955
+572	Employés	89
+573	Autres	660
+574	Retraités	186
+575	Retraités	899
+576	Sans activité professionnelle	291
+577	Professions intermédiaires	175
+578	Agriculteurs exploitants	213
+579	Ouvriers	526
+580	Professions intermédiaires	237
+581	Autres	254
+582	Artisans, commerçants, chefs d'entreprise	552
+583	Retraités	346
+584	Agriculteurs exploitants	275
+585	Autres	229
+586	Retraités	878
+587	Employés	119
+588	Retraités	707
+589	Professions intermédiaires	661
+590	Agriculteurs exploitants	667
+591	Employés	816
+592	Agriculteurs exploitants	410
+593	Agriculteurs exploitants	774
+594	Artisans, commerçants, chefs d'entreprise	160
+595	Professions intermédiaires	563
+596	Employés	739
+597	Cadres et professions intellectuelles supérieures	862
+598	Artisans, commerçants, chefs d'entreprise	734
+599	Autres	897
+600	Cadres et professions intellectuelles supérieures	351
+601	Cadres et professions intellectuelles supérieures	20
+602	Autres	289
+603	Cadres et professions intellectuelles supérieures	722
+604	Professions intermédiaires	346
+605	Etudiants	164
+606	Employés	539
+607	Cadres et professions intellectuelles supérieures	903
+608	Sans activité professionnelle	159
+609	Professions intermédiaires	612
+610	Sans activité professionnelle	354
+611	Professions intermédiaires	741
+612	Professions intermédiaires	315
+613	Retraités	584
+614	Professions intermédiaires	505
+615	Retraités	934
+616	Sans activité professionnelle	461
+617	Ouvriers	22
+618	Etudiants	404
+619	Retraités	445
+620	Sans activité professionnelle	650
+621	Professions intermédiaires	865
+622	Ouvriers	344
+623	Cadres et professions intellectuelles supérieures	914
+624	Employés	547
+625	Cadres et professions intellectuelles supérieures	230
+626	Etudiants	18
+627	Retraités	6
+628	Sans activité professionnelle	569
+629	Artisans, commerçants, chefs d'entreprise	959
+630	Ouvriers	659
+631	Artisans, commerçants, chefs d'entreprise	966
+632	Professions intermédiaires	465
+633	Professions intermédiaires	562
+634	Cadres et professions intellectuelles supérieures	686
+635	Cadres et professions intellectuelles supérieures	148
+636	Autres	744
+637	Professions intermédiaires	406
+638	Cadres et professions intellectuelles supérieures	947
+639	Agriculteurs exploitants	257
+640	Cadres et professions intellectuelles supérieures	893
+641	Ouvriers	887
+642	Retraités	340
+643	Professions intermédiaires	571
+644	Sans activité professionnelle	965
+645	Etudiants	164
+646	Agriculteurs exploitants	160
+647	Employés	781
+648	Agriculteurs exploitants	923
+649	Agriculteurs exploitants	476
+650	Cadres et professions intellectuelles supérieures	513
+651	Ouvriers	160
+652	Cadres et professions intellectuelles supérieures	606
+653	Sans activité professionnelle	468
+654	Employés	430
+655	Ouvriers	945
+656	Retraités	655
+657	Ouvriers	553
+658	Ouvriers	147
+659	Agriculteurs exploitants	369
+660	Artisans, commerçants, chefs d'entreprise	609
+661	Etudiants	915
+662	Retraités	45
+663	Artisans, commerçants, chefs d'entreprise	109
+664	Artisans, commerçants, chefs d'entreprise	361
+665	Cadres et professions intellectuelles supérieures	880
+666	Ouvriers	722
+667	Artisans, commerçants, chefs d'entreprise	698
+668	Ouvriers	491
+669	Sans activité professionnelle	651
+670	Retraités	643
+671	Ouvriers	946
+672	Artisans, commerçants, chefs d'entreprise	922
+673	Professions intermédiaires	416
+674	Ouvriers	924
+675	Cadres et professions intellectuelles supérieures	812
+676	Cadres et professions intellectuelles supérieures	797
+677	Artisans, commerçants, chefs d'entreprise	735
+678	Sans activité professionnelle	691
+679	Agriculteurs exploitants	983
+680	Artisans, commerçants, chefs d'entreprise	581
+681	Employés	515
+682	Retraités	609
+683	Ouvriers	506
+684	Sans activité professionnelle	459
+685	Artisans, commerçants, chefs d'entreprise	154
+686	Ouvriers	701
+687	Autres	166
+688	Agriculteurs exploitants	887
+689	Sans activité professionnelle	153
+690	Ouvriers	920
+691	Retraités	344
+692	Employés	921
+693	Etudiants	737
+694	Retraités	650
+695	Autres	140
+696	Retraités	833
+697	Agriculteurs exploitants	822
+698	Ouvriers	455
+699	Etudiants	896
+700	Autres	319
+701	Ouvriers	713
+702	Cadres et professions intellectuelles supérieures	328
+703	Cadres et professions intellectuelles supérieures	459
+704	Sans activité professionnelle	536
+705	Cadres et professions intellectuelles supérieures	407
+706	Agriculteurs exploitants	689
+707	Agriculteurs exploitants	788
+708	Cadres et professions intellectuelles supérieures	530
+709	Cadres et professions intellectuelles supérieures	374
+710	Cadres et professions intellectuelles supérieures	878
+711	Sans activité professionnelle	13
+712	Etudiants	732
+713	Agriculteurs exploitants	87
+714	Professions intermédiaires	268
+715	Professions intermédiaires	528
+716	Autres	968
+717	Retraités	139
+718	Cadres et professions intellectuelles supérieures	7
+719	Professions intermédiaires	129
+720	Retraités	426
+721	Retraités	618
+722	Etudiants	821
+723	Autres	252
+724	Artisans, commerçants, chefs d'entreprise	485
+725	Retraités	813
+726	Sans activité professionnelle	278
+727	Professions intermédiaires	165
+728	Cadres et professions intellectuelles supérieures	211
+729	Sans activité professionnelle	227
+730	Etudiants	865
+731	Sans activité professionnelle	336
+732	Cadres et professions intellectuelles supérieures	398
+733	Employés	253
+734	Professions intermédiaires	358
+735	Ouvriers	33
+736	Employés	277
+737	Sans activité professionnelle	548
+738	Employés	209
+739	Sans activité professionnelle	637
+740	Etudiants	331
+741	Agriculteurs exploitants	121
+742	Etudiants	146
+743	Sans activité professionnelle	927
+744	Professions intermédiaires	902
+745	Agriculteurs exploitants	318
+746	Autres	480
+747	Agriculteurs exploitants	705
+748	Cadres et professions intellectuelles supérieures	547
+749	Etudiants	706
+750	Etudiants	729
+751	Autres	238
+752	Retraités	824
+753	Autres	896
+754	Employés	367
+755	Employés	649
+756	Artisans, commerçants, chefs d'entreprise	365
+757	Professions intermédiaires	110
+758	Retraités	243
+759	Agriculteurs exploitants	60
+760	Artisans, commerçants, chefs d'entreprise	797
+761	Employés	407
+762	Ouvriers	664
+763	Etudiants	52
+764	Ouvriers	961
+765	Ouvriers	139
+766	Cadres et professions intellectuelles supérieures	822
+767	Employés	305
+768	Employés	412
+769	Artisans, commerçants, chefs d'entreprise	351
+770	Retraités	934
+771	Autres	775
+772	Professions intermédiaires	667
+773	Etudiants	199
+774	Autres	405
+775	Sans activité professionnelle	391
+776	Agriculteurs exploitants	667
+777	Cadres et professions intellectuelles supérieures	151
+778	Cadres et professions intellectuelles supérieures	681
+779	Retraités	121
+780	Ouvriers	137
+781	Ouvriers	159
+782	Employés	737
+783	Professions intermédiaires	105
+784	Autres	792
+785	Retraités	72
+786	Professions intermédiaires	778
+787	Cadres et professions intellectuelles supérieures	309
+788	Ouvriers	68
+789	Professions intermédiaires	185
+790	Agriculteurs exploitants	847
+791	Employés	402
+792	Professions intermédiaires	921
+793	Employés	833
+794	Retraités	686
+795	Retraités	411
+796	Ouvriers	155
+797	Autres	12
+798	Sans activité professionnelle	823
+799	Cadres et professions intellectuelles supérieures	414
+800	Professions intermédiaires	590
+801	Cadres et professions intellectuelles supérieures	137
+802	Agriculteurs exploitants	789
+803	Agriculteurs exploitants	983
+804	Retraités	66
+805	Etudiants	388
+806	Employés	610
+807	Professions intermédiaires	531
+808	Professions intermédiaires	569
+809	Etudiants	26
+810	Artisans, commerçants, chefs d'entreprise	548
+811	Etudiants	823
+812	Agriculteurs exploitants	986
+813	Agriculteurs exploitants	927
+814	Agriculteurs exploitants	59
+815	Cadres et professions intellectuelles supérieures	921
+816	Retraités	185
+817	Sans activité professionnelle	19
+818	Artisans, commerçants, chefs d'entreprise	709
+819	Artisans, commerçants, chefs d'entreprise	699
+820	Cadres et professions intellectuelles supérieures	948
+821	Etudiants	665
+822	Retraités	557
+823	Autres	808
+824	Employés	998
+825	Autres	664
+826	Agriculteurs exploitants	155
+827	Artisans, commerçants, chefs d'entreprise	405
+828	Artisans, commerçants, chefs d'entreprise	806
+829	Artisans, commerçants, chefs d'entreprise	153
+830	Agriculteurs exploitants	910
+831	Autres	687
+832	Employés	665
+833	Etudiants	798
+834	Employés	898
+835	Cadres et professions intellectuelles supérieures	808
+836	Agriculteurs exploitants	466
+837	Cadres et professions intellectuelles supérieures	647
+838	Ouvriers	143
+839	Employés	840
+840	Employés	296
+841	Autres	25
+842	Sans activité professionnelle	199
+843	Employés	285
+844	Professions intermédiaires	223
+845	Professions intermédiaires	821
+846	Autres	185
+847	Professions intermédiaires	805
+848	Sans activité professionnelle	839
+849	Artisans, commerçants, chefs d'entreprise	262
+850	Cadres et professions intellectuelles supérieures	230
+851	Autres	292
+852	Professions intermédiaires	418
+853	Cadres et professions intellectuelles supérieures	509
+854	Employés	184
+855	Sans activité professionnelle	507
+856	Artisans, commerçants, chefs d'entreprise	879
+857	Artisans, commerçants, chefs d'entreprise	234
+858	Sans activité professionnelle	157
+859	Agriculteurs exploitants	345
+860	Cadres et professions intellectuelles supérieures	822
+861	Ouvriers	791
+862	Artisans, commerçants, chefs d'entreprise	568
+863	Artisans, commerçants, chefs d'entreprise	862
+864	Sans activité professionnelle	940
+865	Cadres et professions intellectuelles supérieures	207
+866	Retraités	923
+867	Artisans, commerçants, chefs d'entreprise	264
+868	Agriculteurs exploitants	886
+869	Employés	189
+870	Agriculteurs exploitants	960
+871	Etudiants	420
+872	Professions intermédiaires	312
+873	Employés	911
+874	Cadres et professions intellectuelles supérieures	383
+875	Agriculteurs exploitants	152
+876	Retraités	993
+877	Employés	579
+878	Cadres et professions intellectuelles supérieures	563
+879	Artisans, commerçants, chefs d'entreprise	245
+880	Retraités	498
+881	Employés	232
+882	Artisans, commerçants, chefs d'entreprise	492
+883	Agriculteurs exploitants	204
+884	Etudiants	286
+885	Agriculteurs exploitants	220
+886	Retraités	857
+887	Agriculteurs exploitants	940
+888	Etudiants	172
+889	Professions intermédiaires	585
+890	Agriculteurs exploitants	155
+891	Cadres et professions intellectuelles supérieures	348
+892	Cadres et professions intellectuelles supérieures	828
+893	Employés	260
+894	Sans activité professionnelle	386
+895	Artisans, commerçants, chefs d'entreprise	310
+896	Employés	300
+897	Artisans, commerçants, chefs d'entreprise	936
+898	Retraités	318
+899	Employés	431
+900	Autres	297
+901	Autres	658
+902	Etudiants	413
+903	Artisans, commerçants, chefs d'entreprise	179
+904	Professions intermédiaires	243
+905	Autres	160
+906	Sans activité professionnelle	699
+907	Etudiants	927
+908	Professions intermédiaires	619
+909	Artisans, commerçants, chefs d'entreprise	92
+910	Ouvriers	902
+911	Ouvriers	674
+912	Employés	419
+913	Artisans, commerçants, chefs d'entreprise	854
+914	Etudiants	14
+915	Sans activité professionnelle	250
+916	Autres	480
+917	Professions intermédiaires	386
+918	Sans activité professionnelle	10
+919	Agriculteurs exploitants	386
+920	Artisans, commerçants, chefs d'entreprise	771
+921	Employés	498
+922	Cadres et professions intellectuelles supérieures	320
+923	Agriculteurs exploitants	357
+924	Etudiants	146
+925	Employés	615
+926	Retraités	910
+927	Etudiants	746
+928	Ouvriers	696
+929	Professions intermédiaires	925
+930	Professions intermédiaires	691
+931	Cadres et professions intellectuelles supérieures	933
+932	Employés	888
+933	Artisans, commerçants, chefs d'entreprise	288
+934	Professions intermédiaires	182
+935	Autres	691
+936	Professions intermédiaires	274
+937	Employés	348
+938	Professions intermédiaires	810
+939	Professions intermédiaires	24
+940	Ouvriers	708
+941	Autres	892
+942	Cadres et professions intellectuelles supérieures	952
+943	Agriculteurs exploitants	42
+944	Professions intermédiaires	554
+945	Ouvriers	23
+946	Autres	347
+947	Agriculteurs exploitants	528
+948	Autres	825
+949	Sans activité professionnelle	936
+950	Ouvriers	715
+951	Employés	416
+952	Employés	536
+953	Agriculteurs exploitants	410
+954	Cadres et professions intellectuelles supérieures	976
+955	Etudiants	628
+956	Employés	497
+957	Professions intermédiaires	550
+958	Agriculteurs exploitants	299
+959	Professions intermédiaires	628
+960	Sans activité professionnelle	176
+961	Sans activité professionnelle	171
+962	Artisans, commerçants, chefs d'entreprise	175
+963	Retraités	101
+964	Cadres et professions intellectuelles supérieures	992
+965	Sans activité professionnelle	596
+966	Etudiants	137
+967	Cadres et professions intellectuelles supérieures	164
+968	Employés	806
+969	Sans activité professionnelle	767
+970	Employés	470
+971	Professions intermédiaires	742
+972	Etudiants	424
+973	Agriculteurs exploitants	502
+974	Etudiants	494
+975	Ouvriers	267
+976	Artisans, commerçants, chefs d'entreprise	433
+977	Employés	387
+978	Cadres et professions intellectuelles supérieures	660
+979	Etudiants	862
+980	Cadres et professions intellectuelles supérieures	84
+981	Sans activité professionnelle	983
+982	Sans activité professionnelle	548
+983	Agriculteurs exploitants	854
+984	Cadres et professions intellectuelles supérieures	555
+985	Employés	126
+986	Etudiants	953
+987	Cadres et professions intellectuelles supérieures	110
+988	Retraités	542
+989	Sans activité professionnelle	407
+990	Sans activité professionnelle	408
+991	Ouvriers	335
+992	Sans activité professionnelle	606
+993	Cadres et professions intellectuelles supérieures	975
+994	Cadres et professions intellectuelles supérieures	260
+995	Cadres et professions intellectuelles supérieures	319
+996	Ouvriers	496
+997	Artisans, commerçants, chefs d'entreprise	36
+998	Retraités	383
+999	Autres	366
